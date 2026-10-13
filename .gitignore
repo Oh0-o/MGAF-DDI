@@ -1,6 +1,3 @@
-# ---- Data: derived from the public DDInter database (~730 MB). Not redistributed. ----
-**/Data/
-
 # ---- Experiment outputs (checkpoints, figures, logs). Recomputable. ----
 **/Model/results/
 

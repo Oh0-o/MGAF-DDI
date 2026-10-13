@@ -1,0 +1,2 @@
+multi_label/Data/** filter=lfs diff=lfs merge=lfs -text
+multi_relation/Data/** filter=lfs diff=lfs merge=lfs -text
