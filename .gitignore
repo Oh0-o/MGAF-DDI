@@ -1,0 +1,21 @@
+# ---- Data: derived from the public DDInter database (~730 MB). Not redistributed. ----
+**/Data/
+
+# ---- Experiment outputs (checkpoints, figures, logs). Recomputable. ----
+**/Model/results/
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ---- Editors / OS ----
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ---- Light skill memory (local only) ----
+.light/

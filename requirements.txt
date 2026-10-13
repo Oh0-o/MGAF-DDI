@@ -1,0 +1,10 @@
+# MGAF-DDI dependencies
+# Versions used in the original experiments were not recorded; install recent
+# TensorFlow 2.x-compatible releases.
+tensorflow
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
